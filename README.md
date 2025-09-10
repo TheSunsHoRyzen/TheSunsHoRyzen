@@ -6,7 +6,7 @@
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications. I particularly love building backends and thinking about infrastructure.
 
 
-- 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course/neural-networks)**
+- 🌱 I’m currently learning **[PyTorch](https://docs.pytorch.org/tutorials/intro.html)**
 - 💬 Ask me about **Java, Node.js, React...or about my favorite car (long discussion) !**
 
 <br>
