@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hasan+Ali!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, adn user-centric web applications. I particularly love building backends and thinking about infrastructure.
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications. I particularly love building backends and thinking about infrastructure.
 
 
 - 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course/neural-networks)**
