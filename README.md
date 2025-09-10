@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hasan+Ali!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, adn user-centric web applications. I particularly love building backends and thinking about infrastructure. Kubernetes to the rescue!
+### A full-stack software engineer passionate about building beautiful, functional, adn user-centric web applications. I particularly love building backends and thinking about infrastructure.
 
 
 - 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course/neural-networks)**
@@ -20,6 +20,19 @@
   </a>
 
 </div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,c" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwind,graphql,prisma,jest" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,aws,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=pytorch,selenium" />
+</p>
 
 <hr>
 
