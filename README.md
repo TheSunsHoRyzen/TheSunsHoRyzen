@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hasan+Ali!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications. I particularly love building backends and thinking about infrastructure.
+### A full-stack software engineer passionate about building functional, and user-centric web applications. I particularly love building backends and thinking about infrastructure.
 
 
-- 🌱 I’m currently learning **[PyTorch](https://docs.pytorch.org/tutorials/intro.html)**
-- 💬 Ask me about **Java, Node.js, React...or about my favorite car (long discussion) !**
+- 🌱 I’m currently learning **[Kubernetes]([https://docs.pytorch.org/tutorials/intro.html](https://kubernetes.io))**
+- 💬 Ask me about **Containers, Node.js, React...or about my favorite car (long discussion) !**
 
 <br>
 
