@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hasan+Ali!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional and user-centric web applications. I particularly love building backends and thinking about infrastructure.
+### A full-stack software engineer who loves backend and infrastructure, and who brings a strong focus on building products that feel polished and effortless for users.
 
 
 - 🌱 I’m currently learning **[Kubernetes]([https://docs.pytorch.org/tutorials/intro.html](https://kubernetes.io))**
